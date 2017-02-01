@@ -1,3 +1,4 @@
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/d/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
 ###TODO
 * History of UNIX
 * Basics of navigating and terminal commands, top 50 useful bash commands
