@@ -1,4 +1,4 @@
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/0.0.3.2/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v=0.0.3.2/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 ###TODO
 * History of UNIX
 * Basics of navigating and terminal commands, top 50 useful bash commands
