@@ -1,4 +1,4 @@
-[![Chrome Web Store](https://img.shields.io/badge/chrome--web--store-v%200.0.3.2-blue.svg)](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
+[![GitHub tag](https://img.shields.io/github/tag/strongloop/express.svg)](https://github.com/Shapetrace/BIMViewer_MultiScene/releases/tag/SE0.0.2)
 ###TODO
 * History of UNIX
 * Basics of navigating and terminal commands, top 50 useful bash commands
